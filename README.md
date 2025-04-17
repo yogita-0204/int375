@@ -1,6 +1,6 @@
 Climate Change Analysis (Up to 2000)
 GitHub
-Pytho
+Python
 
 This repository contains a detailed analysis of climate change data from various weather stations across India, spanning the years 1901–2000. The dataset includes monthly records of mean maximum and minimum temperatures, as well as rainfall. Using Python, we perform exploratory data analysis (EDA) and visualize trends in temperature and precipitation patterns.
 
